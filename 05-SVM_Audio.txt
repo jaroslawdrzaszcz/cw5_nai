@@ -1,0 +1,32 @@
+Zadania bonusowe trzeba robić samodzielnie, w pozostałych przypadkach dozwolona jest praca grupowa.
+
+Termin realizacji zadania: 13.12.2019 godzina 17:00;
+
+1. Zademonstrować użycie SVM.
+Wybrać samodzielnie zbiór danych do regresji lub klasyfikacji.
+- wybrać dane unikalne, tj. uzupełnić arkusz:
+https://docs.google.com/spreadsheets/d/1f_SC322MV1EUSxW4wQJQvE4bm_-wzAHIdKERZ972cUg/edit?usp=sharing
+
+- zbiór danych musi mieć przynajmniej 50 próbek;
+- wektor danych wejściowych musi mieć przynajmniej 4 wymiary;
+- podać źródło danych;
+- podać autora danych;
+- zamieścić krótki opis danych (czego dotyczą)
+- zabrania się używania sklearn.datasets()
+- podać przykład użycia (dokonać predykcji)
+BONUS: stworzyć zbiór danych samodzielnie;
+
+2. BONUS
+- napisz bota, który będzie komunikował się głosowo, a który odpowie na pytania:
+- How tall is president of Poland?
+- What is the meaning of life?
+
+3. Nagrać 100 rzeczowników, 100 czasowników (per student)
+Stwórz transkrypcję na tekst (csv: nazwa_pliku -> wyraz po polsku).
+Każde słowo to inny plik wav.
+
+4. BONUS
+Nagrać 100 rzeczowników, 100 czasowników, 100 przymiotników
+Stwórz transkrypcję na tekst (csv: nazwa_pliku -> wyraz po polsku).
+Każde słowo to inny plik wav.
+
