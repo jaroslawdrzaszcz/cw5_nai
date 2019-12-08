@@ -22,10 +22,10 @@ if __name__ == '__main__':
     X_test, y_test = X[num_traing:], y[num_traing:]
 
     # Create Support Vector Regression model
-    regressor = SVR()
+    regressor = SVR(kernel='linear')
     # Train Support Vector Regressor
     regressor.fit(X_tran, y_tran)
 
     # Test the regressor on test datapoint
-    test_data = [60, 0, 25, 1, 2]
+    test_data = [100, 1, 100, 200, 1]
     print("\nPredicted value:", regressor.predict([test_data]))
