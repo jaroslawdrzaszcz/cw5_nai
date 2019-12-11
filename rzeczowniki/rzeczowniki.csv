@@ -1,200 +1,200 @@
-1 -> kacet
-2 -> kacheksja
-3 -> Kachetia
-4 -> Kachetyjczyk
-5 -> Kachetyjka
-6 -> Kachna
-7 -> Kachowka
-8 -> Kacper
-9 -> kacyk
-10 -> kaczan
-11 -> kaczeniec
-12 -> Kaczinka
-13 -> kaczka
-14 -> kaczkarz
-15 -> kaczkowate
-16 -> Kaczkowo
-17 -> kaczor
-18 -> kaczuszka
-19 -> kaczyca
-20 -> Kaczyka
-21 -> kaczyniec
-22 -> kaczysta
-23 -> kaczystka
-24 -> kaczyzm
-25 -> kadaweryna
-26 -> kadencja
-27 -> kadet
-28 -> kadm
-29 -> kadmowanie
-30 -> kadr
-31 -> kadra
-32 -> kadryl
-33 -> kadubek
-34 -> kaduceusz
-35 -> kaduk
-36 -> kadyk
-37 -> Kadyks
-38 -> kadzenie
-39 -> kadzielnica
-40 -> kaem
-41 -> kafar
-42 -> Kafarnaum
-43 -> kafe
-44 -> kafej
-45 -> kafejka
-46 -> kafel
-47 -> kafelek
-48 -> kafelkowanie
-49 -> kafenijo
-50 -> kafeteria
-51 -> Dardanele
-52 -> Dardyjka
-53 -> Darek
-54 -> Daria
-55 -> Dariusz
-56 -> darmodajka
-57 -> darmozjad
-58 -> darmsztadt
-59 -> darniowanie
-60 -> darowanie
-61 -> darowizna
-62 -> darowywanie
-63 -> dart
-64 -> darwinista
-65 -> darwinistka
-66 -> darwinizm
-67 -> darybok
-68 -> darymnina
-69 -> darzenie
-70 -> Daszawa
-71 -> daszek
-72 -> daszkowanie
-73 -> data
-74 -> datacja
-75 -> datek
-76 -> datowanie
-77 -> datura
-78 -> dauhanka
-79 -> Dauria
-80 -> daurski
-81 -> dawanie
-82 -> dawca
-83 -> dawczyni
-84 -> Dawid
-85 -> Dawida
-86 -> dawidia
-87 -> Dawidka
-88 -> dawis
-89 -> dawka
-90 -> dawkomierz
-91 -> dawkowanie
-92 -> Madera
-93 -> maderyzacja
-94 -> madka
-95 -> madla
-96 -> Madonna
-97 -> madrac
-98 -> Madryt
-99 -> madrytczyk
-100 -> madrytka
-101 -> maestro
-102 -> mafia
-103 -> mafioso
-104 -> mag
-105 -> maga
-106 -> magacyn
-107 -> Magadan
-108 -> magazyn
-109 -> magazynek
-110 -> magazynowanie
-111 -> Magda
-112 -> magdeburczyk
-113 -> Magdeburg
-114 -> magenta
-115 -> Maghreb
-116 -> Maghrebczyk
-117 -> Maghrebijka
-118 -> magia
-119 -> magid
-120 -> magiel
-121 -> magiera
-122 -> magierka
-123 -> magik
-124 -> magister
-125 -> magisterka
-126 -> magistracik
-127 -> magistrala
-128 -> magistrat
-129 -> magistratura
-130 -> maglowanie
-131 -> magma
-132 -> magnat
-133 -> magnateria
-134 -> magnes
-135 -> magnesowanie
-136 -> magnet
-137 -> magnetofon
-138 -> magnetofonik
-139 -> magnetorelaksometria
-140 -> magnetowid
-141 -> palacz
-142 -> palaczka
-143 -> palajski
-144 -> palankin
-145 -> palant
-146 -> palarka
-147 -> palarnia
-148 -> palatyn
-149 -> Palatynat
-150 -> Palau
-151 -> Palauanka
-152 -> palba
-153 -> palcacik
-154 -> palcat
-155 -> palcowanie
-156 -> palec
-157 -> paleciak
-158 -> Palembang
-159 -> palenie
-160 -> palenisko
-161 -> paleoantropologia
-162 -> paleoarchaik
-163 -> paleobotanika
-164 -> paleocen
-165 -> paleofitologia
-166 -> paleogen
-167 -> paleografia
-168 -> paleolit
-169 -> paleontolog
-170 -> paleontologia
-171 -> paleoproterozoik
-172 -> paleozoik
-173 -> paleozoolog
-174 -> paleozoologia
-175 -> palermianin
-176 -> palermianka
-177 -> palermitanin
-178 -> Palermo
-179 -> palestra
-180 -> palestrant
-181 -> wata
-182 -> wataga
-183 -> wataha
-184 -> wataman
-185 -> waterman
-186 -> watowanie
-187 -> watra
-188 -> watral
-189 -> watrol
-190 -> watt
-191 -> watykanista
-192 -> watykanistka
-193 -> Watykanka
-194 -> Wawel
-195 -> Wawer
-196 -> wawrzyn
-197 -> Wawrzyniec
-198 -> waza
-199 -> wazektomia
-200 -> wazelina
+1, kacet
+2, kacheksja
+3, Kachetia
+4, Kachetyjczyk
+5, Kachetyjka
+6, Kachna
+7, Kachowka
+8, Kacper
+9, kacyk
+10, kaczan
+11, kaczeniec
+12, Kaczinka
+13, kaczka
+14, kaczkarz
+15, kaczkowate
+16, Kaczkowo
+17, kaczor
+18, kaczuszka
+19, kaczyca
+20, Kaczyka
+21, kaczyniec
+22, kaczysta
+23, kaczystka
+24, kaczyzm
+25, kadaweryna
+26, kadencja
+27, kadet
+28, kadm
+29, kadmowanie
+30, kadr
+31, kadra
+32, kadryl
+33, kadubek
+34, kaduceusz
+35, kaduk
+36, kadyk
+37, Kadyks
+38, kadzenie
+39, kadzielnica
+40, kaem
+41, kafar
+42, Kafarnaum
+43, kafe
+44, kafej
+45, kafejka
+46, kafel
+47, kafelek
+48, kafelkowanie
+49, kafenijo
+50, kafeteria
+51, Dardanele
+52, Dardyjka
+53, Darek
+54, Daria
+55, Dariusz
+56, darmodajka
+57, darmozjad
+58, darmsztadt
+59, darniowanie
+60, darowanie
+61, darowizna
+62, darowywanie
+63, dart
+64, darwinista
+65, darwinistka
+66, darwinizm
+67, darybok
+68, darymnina
+69, darzenie
+70, Daszawa
+71, daszek
+72, daszkowanie
+73, data
+74, datacja
+75, datek
+76, datowanie
+77, datura
+78, dauhanka
+79, Dauria
+80, daurski
+81, dawanie
+82, dawca
+83, dawczyni
+84, Dawid
+85, Dawida
+86, dawidia
+87, Dawidka
+88, dawis
+89, dawka
+90, dawkomierz
+91, dawkowanie
+92, Madera
+93, maderyzacja
+94, madka
+95, madla
+96, Madonna
+97, madrac
+98, Madryt
+99, madrytczyk
+100, madrytka
+101, maestro
+102, mafia
+103, mafioso
+104, mag
+105, maga
+106, magacyn
+107, Magadan
+108, magazyn
+109, magazynek
+110, magazynowanie
+111, Magda
+112, magdeburczyk
+113, Magdeburg
+114, magenta
+115, Maghreb
+116, Maghrebczyk
+117, Maghrebijka
+118, magia
+119, magid
+120, magiel
+121, magiera
+122, magierka
+123, magik
+124, magister
+125, magisterka
+126, magistracik
+127, magistrala
+128, magistrat
+129, magistratura
+130, maglowanie
+131, magma
+132, magnat
+133, magnateria
+134, magnes
+135, magnesowanie
+136, magnet
+137, magnetofon
+138, magnetofonik
+139, magnetorelaksometria
+140, magnetowid
+141, palacz
+142, palaczka
+143, palajski
+144, palankin
+145, palant
+146, palarka
+147, palarnia
+148, palatyn
+149, Palatynat
+150, Palau
+151, Palauanka
+152, palba
+153, palcacik
+154, palcat
+155, palcowanie
+156, palec
+157, paleciak
+158, Palembang
+159, palenie
+160, palenisko
+161, paleoantropologia
+162, paleoarchaik
+163, paleobotanika
+164, paleocen
+165, paleofitologia
+166, paleogen
+167, paleografia
+168, paleolit
+169, paleontolog
+170, paleontologia
+171, paleoproterozoik
+172, paleozoik
+173, paleozoolog
+174, paleozoologia
+175, palermianin
+176, palermianka
+177, palermitanin
+178, Palermo
+179, palestra
+180, palestrant
+181, wata
+182, wataga
+183, wataha
+184, wataman
+185, waterman
+186, watowanie
+187, watra
+188, watral
+189, watrol
+190, watt
+191, watykanista
+192, watykanistka
+193, Watykanka
+194, Wawel
+195, Wawer
+196, wawrzyn
+197, Wawrzyniec
+198, waza
+199, wazektomia
+200, wazelina
