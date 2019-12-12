@@ -27,7 +27,6 @@ if __name__ == '__main__':
     X_test, y_test = X[num_traing:], y[num_traing:]
 
     # Create Support Vector Regression model
-    # regressor = linear_model.HuberRegressor()
     regressor = SVR(kernel='linear')
     # Train Support Vector Regressor
     regressor.fit(X_tran, y_tran)
